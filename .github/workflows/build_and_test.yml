@@ -22,7 +22,8 @@ jobs:
       run: dotnet restore
     - name: Build the project
       run: dotnet build --no-restore
-
+    - name: Make all selenium-manager binaries executable
+      run: find . -type f -name selenium-manager -exec chmod +x {} \;
     - name: Run Project 1 UI tests
       run: dotnet test TestProject1 --no-build --verbosity normal
     - name: Run Project 2 UI tests
