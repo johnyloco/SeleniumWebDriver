@@ -9,12 +9,21 @@ namespace TestProject2
     public class WorkingWithWebTable
     {
         IWebDriver driver;
+        ChromeOptions options;
 
         [SetUp]
         public void SetUp()
         {
             // Create object of ChromeDriver
-            driver = new ChromeDriver();
+            options = new ChromeOptions();
+            options.AddArgument("--headless"); // Run in headless mode
+            options.AddArgument("--no-sandbox");
+            options.AddArgument("--disable-dev-shm-usage");
+            options.AddArgument("--window-size=1920,1080");
+            options.AddArgument("--disable-gpu"); // Disable GPU hardware acceleration
+            options.AddArgument("--disable-extensions"); // Disable extensions
+            options.AddArgument("remote-degubbing-port=9222"); // Disable infobars
+            driver = new ChromeDriver(options);
 
             // Add implicit wait
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);

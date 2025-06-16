@@ -102,3 +102,4 @@ C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriv
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.pdb
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.genruntimeconfig.cache
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\ref\TestProject3.dll
+C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.sourcelink.json

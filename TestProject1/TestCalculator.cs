@@ -16,13 +16,22 @@ namespace TestProject1
         IWebElement calcBtn;
         IWebElement resetBtn;
         IWebElement divResult;
+        ChromeOptions options;
 
         [OneTimeSetUp]
         public void SetUp()
         {
-            driver = new ChromeDriver();
+            options = new ChromeOptions();
+            options.AddArgument("--headless"); // Run in headless mode
+            options.AddArgument("--no-sandbox");
+            options.AddArgument("--disable-dev-shm-usage");
+            options.AddArgument("--window-size=1920,1080");
+            options.AddArgument("--disable-gpu"); // Disable GPU hardware acceleration
+            options.AddArgument("--disable-extensions"); // Disable extensions
+            options.AddArgument("remote-degubbing-port=9222"); // Disable infobars
+            driver = new ChromeDriver(options);
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
-            driver.Url = "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com/number-calculator/";
+            driver.Url = "https://calculatorhtml.onrender.com/";
 
             textBoxFirstNum = driver.FindElement(By.Id("number1"));
             dropDownOperation = driver.FindElement(By.Id("operation"));
