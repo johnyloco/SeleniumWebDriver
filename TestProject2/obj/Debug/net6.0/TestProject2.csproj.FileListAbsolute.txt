@@ -103,3 +103,6 @@ C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriv
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject2\obj\Debug\net6.0\TestProject2.pdb
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject2\obj\Debug\net6.0\TestProject2.genruntimeconfig.cache
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject2\obj\Debug\net6.0\ref\TestProject2.dll
+C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject2\bin\Debug\net6.0\System.Text.Json.dll
+C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

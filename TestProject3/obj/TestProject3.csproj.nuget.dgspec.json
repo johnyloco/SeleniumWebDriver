@@ -68,11 +68,11 @@
             },
             "Selenium.Support": {
               "target": "Package",
-              "version": "[4.21.0, )"
+              "version": "[4.33.0, )"
             },
             "Selenium.WebDriver": {
               "target": "Package",
-              "version": "[4.21.0, )"
+              "version": "[4.33.0, )"
             },
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
