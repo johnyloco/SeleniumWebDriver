@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2IThPgBX9Uw=",
+  "dgSpecHash": "oloqP76ZibA=",
   "success": true,
   "projectFilePath": "C:\\wamp64\\www\\softuni\\08-Exercise-CI-CD-GitHub-Actions-Resources\\SeleniumWebDriver\\TestProject2\\TestProject2.csproj",
   "expectedPackageFiles": [
@@ -18,21 +18,8 @@
     "C:\\Users\\alexm\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
     "C:\\Users\\alexm\\.nuget\\packages\\selenium.support\\4.21.0\\selenium.support.4.21.0.nupkg.sha512",
     "C:\\Users\\alexm\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
-    "C:\\Users\\alexm\\.nuget\\packages\\selenium.webdriver.chromedriver\\137.0.7151.5500\\selenium.webdriver.chromedriver.137.0.7151.5500.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\selenium.webdriver.chromedriver\\137.0.7151.7000\\selenium.webdriver.chromedriver.137.0.7151.7000.nupkg.sha512",
     "C:\\Users\\alexm\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "TestProject2 depends on Selenium.WebDriver.ChromeDriver (>= 137.0.7151.104) but Selenium.WebDriver.ChromeDriver 137.0.7151.104 was not found. Selenium.WebDriver.ChromeDriver 137.0.7151.5500 was resolved instead.",
-      "projectPath": "C:\\wamp64\\www\\softuni\\08-Exercise-CI-CD-GitHub-Actions-Resources\\SeleniumWebDriver\\TestProject2\\TestProject2.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\wamp64\\www\\softuni\\08-Exercise-CI-CD-GitHub-Actions-Resources\\SeleniumWebDriver\\TestProject2\\TestProject2.csproj",
-      "libraryId": "Selenium.WebDriver.ChromeDriver",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

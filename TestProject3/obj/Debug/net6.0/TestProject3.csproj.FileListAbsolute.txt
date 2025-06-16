@@ -96,10 +96,10 @@ C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriv
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.AssemblyInfoInputs.cache
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.AssemblyInfo.cs
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.csproj.CoreCompileInputs.cache
+C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.sourcelink.json
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProj.F82819AE.Up2Date
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.dll
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\refint\TestProject3.dll
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.pdb
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.genruntimeconfig.cache
 C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\ref\TestProject3.dll
-C:\wamp64\www\softuni\08-Exercise-CI-CD-GitHub-Actions-Resources\SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.sourcelink.json
